@@ -1,6 +1,5 @@
 ## Hi there 👋
 # 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working on: A personalized Realtime Chat website using React and Django.<br><br>👯 I’m looking to collaborate on: Open-source projects focused on Frontend Development<br><br>🤝 I’m looking for help with: Mastering complex SQL queries and database optimization.<br><br>🌱 I’m currently learning: The fundamentals of Rust and Web Assembly.<br><br>💬 Ask me about: Why I think dark mode is superior and my favorite VS Code extensions.<br><br>⚡ Fun fact: I can solve a Rubik's cube in under 60 seconds (but don't ask me to do it under pressure!).
 
 
